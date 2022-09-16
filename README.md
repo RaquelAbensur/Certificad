@@ -6,7 +6,7 @@
 
 > Alura
 
-Projeto construido no evento Next Level Week da Rocketseat
+Projeto construido na semana Imersao Dev da Alura
 
 Link para acessar clicando ▫️ [AQUI](https://raquelabensur.github.io/Certificad/) ▫️
 
